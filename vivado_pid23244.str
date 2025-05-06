@@ -369,3 +369,66 @@ selectCodeEditor("ALU.vhd", 772, 93); // ae (ALU.vhd)
 // TclEventType: RUN_STATUS_CHANGE
 // TclEventType: RUN_STEP_COMPLETED
 // TclEventType: RUN_STATUS_CHANGE
+// Elapsed time: 407 seconds
+selectButton(RDIResource.BaseDialog_OK, "OK", "Synthesis Failed"); // a (RDIResource.BaseDialog_OK)
+// Run Command: PAResourceCommand.PACommandNames_MESSAGE_WINDOW
+dismissDialog("Synthesis Failed"); // W.a (dialog7)
+// Elapsed time: 39 seconds
+selectCodeEditor("ALU.vhd", 1414, 75); // ae (ALU.vhd)
+// Elapsed time: 18 seconds
+selectCodeEditor("ALU.vhd", 931, 151); // ae (ALU.vhd)
+selectCodeEditor("ALU.vhd", 427, 203); // ae (ALU.vhd)
+selectCodeEditor("ALU.vhd", 414, 292); // ae (ALU.vhd)
+selectCodeEditor("ALU.vhd", 63, 240); // ae (ALU.vhd)
+// Elapsed time: 15 seconds
+selectCodeEditor("ALU.vhd", 436, 210); // ae (ALU.vhd)
+selectCodeEditor("ALU.vhd", 331, 173); // ae (ALU.vhd)
+selectCodeEditor("ALU.vhd", 332, 302); // ae (ALU.vhd)
+selectButton(RDIResourceCommand.RDICommands_LINE_COMMENT, (String) null); // C (RDIResourceCommand.RDICommands_LINE_COMMENT)
+selectCodeEditor("ALU.vhd", 593, 73); // ae (ALU.vhd)
+selectCodeEditor("ALU.vhd", 589, 92); // ae (ALU.vhd)
+selectButton(RDIResourceCommand.RDICommands_LINE_COMMENT, (String) null); // C (RDIResourceCommand.RDICommands_LINE_COMMENT)
+selectCodeEditor("ALU.vhd", 439, 130); // ae (ALU.vhd)
+// Elapsed time: 83 seconds
+selectCodeEditor("ALU.vhd", 250, 121); // ae (ALU.vhd)
+typeControlKey((HResource) null, "ALU.vhd", 'c'); // ae (ALU.vhd)
+typeControlKey((HResource) null, "ALU.vhd", 'c'); // ae (ALU.vhd)
+typeControlKey((HResource) null, "ALU.vhd", 'c'); // ae (ALU.vhd)
+// Elapsed time: 19 seconds
+selectCodeEditor("ALU.vhd", 900, 307); // ae (ALU.vhd)
+setText(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "i_op", true); // d.c (RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX)
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "i_op"); // d.c (RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX)
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "i_op"); // d.c (RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX)
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "i_op"); // d.c (RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX)
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "i_op"); // d.c (RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX)
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "i_op"); // d.c (RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX)
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "i_op"); // d.c (RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX)
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "i_op"); // d.c (RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX)
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "i_op"); // d.c (RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX)
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "i_op"); // d.c (RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX)
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "i_op"); // d.c (RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX)
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "i_op"); // d.c (RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX)
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "i_op"); // d.c (RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX)
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "i_op"); // d.c (RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX)
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "i_op"); // d.c (RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX)
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "i_op"); // d.c (RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX)
+// Elapsed time: 53 seconds
+selectCodeEditor("ALU.vhd", 647, 314); // ae (ALU.vhd)
+setText(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "final", true); // d.c (RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX)
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "final"); // d.c (RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX)
+selectCodeEditor("ALU.vhd", 339, 390); // ae (ALU.vhd)
+// Elapsed time: 36 seconds
+selectCodeEditor("ALU.vhd", 614, 334); // ae (ALU.vhd)
+setText(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "o_result", true); // d.c (RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX)
+selectCodeEditor("ALU.vhd", 38, 342); // ae (ALU.vhd)
+// Elapsed time: 17 seconds
+selectCodeEditor("ALU.vhd", 56, 117); // ae (ALU.vhd)
+selectCodeEditor("ALU.vhd", 380, 218); // ae (ALU.vhd)
+// WARNING: HEventQueue.dispatchEvent() is taking  275801 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 973 MB. GUI used memory: 91 MB. Current time: 5/5/25, 9:11:09 PM MDT
+// Elapsed time: 894 seconds
+selectButton(RDIResourceCommand.RDICommands_SAVE_FILE, (String) null); // C (RDIResourceCommand.RDICommands_SAVE_FILE)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed Time for: 'PAResourceItoN.MsgLongTask_MESSAGE_LONG_TASK/L.f': 47m:20s
+// Elapsed Time for: 'PAResourceItoN.MsgLongTask_MESSAGE_LONG_TASK/L.f': 47m:26s
